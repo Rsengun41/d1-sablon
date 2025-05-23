@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "d1-sablon",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "06a87a8e-2f62-4999-9c58-910664fe5ed3",
+      "database_name": "d1-şablon-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
